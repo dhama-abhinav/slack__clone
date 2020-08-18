@@ -1,0 +1,10 @@
+*{
+  margin :0;
+}
+body{
+  --slack-color:#8b128d;
+}
+.app__body {
+  display: flex;
+  height: 100vh;
+}
